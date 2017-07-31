@@ -9,6 +9,8 @@ class a1{
         c=a*b;
     }
     void display(){
+        System.out.println("Ashish");
+        
         System.out.println("Area " + c);
     }
 }
